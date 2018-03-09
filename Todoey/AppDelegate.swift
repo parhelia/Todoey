@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Todoey
 //
-//  Created by Erik Toh on 2018-03-08.
-//  Copyright © 2018 Erik Toh. All rights reserved.
+//  Created by ET on 2018-03-08.
+//  Copyright © 2018 ET. All rights reserved.
 //
 
 import UIKit
